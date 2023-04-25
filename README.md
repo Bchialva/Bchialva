@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a Full Stack developer with experience in journalism and a great passion for technology. I am always looking to learn new things and adapt to changes and challenges that arise. Throughout my career as a Full Stack Developer, I have acquired knowledge in technologies such as JavaScript, HTML, CSS, React, Redux, NodeJS, Express, SQL, PostgreSQL, and Sequelize.
+I am a Fullstack developer with experience in journalism and a great passion for technology. I am always looking to learn new things and adapt to changes and challenges that arise. Throughout my career as a Full Stack Developer, I have acquired knowledge in technologies such as JavaScript, HTML, CSS, React, Redux, NodeJS, Express, SQL, PostgreSQL, and Sequelize.
 
 In my free time, I also enjoy experimenting in the kitchen, discovering new flavors and recipes. Communication and quality are fundamental to me in any project, and my experience as a journalist has taught me to value these skills.
 
