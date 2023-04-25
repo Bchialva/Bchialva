@@ -4,7 +4,8 @@ I am a Full Stack developer with experience in journalism and a great passion fo
 
 In my free time, I also enjoy experimenting in the kitchen, discovering new flavors and recipes. Communication and quality are fundamental to me in any project, and my experience as a journalist has taught me to value these skills.
 
-If you are interested in learning more about my projects and skills, please do not hesitate to contact me through my LinkedIn profile at https://www.linkedin.com/in/b%C3%A1rbara-chialva-211404273/ or by sending me an email at  barbarachialva@gmail.com.
+If you are interested in learning more about my projects and skills, please do not hesitate to contact me through my LinkedIn profile at www.linkedin.com/in/
+bárbara-chialva-211404273 or by sending me an email at  barbarachialva@gmail.com.
 
 
 Languages & Tools
